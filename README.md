@@ -1,0 +1,1 @@
+Olá! Esse é o projeto da minha pokédex.
